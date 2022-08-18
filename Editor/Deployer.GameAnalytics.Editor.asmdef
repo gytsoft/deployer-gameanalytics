@@ -1,0 +1,16 @@
+{
+    "name": "Deployer.GameAnalytics.Editor",
+    "references": [
+        "Deployer.GameAnalytics"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
